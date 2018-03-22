@@ -1,0 +1,52 @@
+
+{
+  "basics":{
+    "photo":"image/001.png",
+    "name":"Goutham Raj",
+    "email":"rajgoutham383@gmail.com",
+    "mobile":"8008788957"
+
+  },
+  "education":[
+    {
+    "course":"B.tech(Computer science and engineering)",
+    "institution":["G pullaiah college of engineering",
+      "2015-2019",
+      "60"
+    ]
+
+
+},
+{
+  "course":"Intermediate(MPC)",
+  "institution":["narayana college",
+    "2013-2015",
+    "87"
+  ]
+
+},
+{
+  "course":"CBSE",
+  "institution":["TNPS",
+    "2013",
+    "60"
+  ]
+}
+
+],
+"skills":[
+  {
+    "name": "Web Technologies",
+    "values": "HTML,CSS"
+  },
+  {
+    "name": "operating system",
+    "values": "Linux,windows"
+  },
+  {
+    "name": "Programming Languages",
+    "values": "c,c++,java"
+  }
+]
+
+}
